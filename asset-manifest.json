@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/90-days-fullstack-challenge/static/css/main.725a07b6.css",
+    "main.js": "/90-days-fullstack-challenge/static/js/main.46271f06.js",
+    "index.html": "/90-days-fullstack-challenge/index.html",
+    "main.725a07b6.css.map": "/90-days-fullstack-challenge/static/css/main.725a07b6.css.map",
+    "main.46271f06.js.map": "/90-days-fullstack-challenge/static/js/main.46271f06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.725a07b6.css",
+    "static/js/main.46271f06.js"
+  ]
+}
